@@ -1,0 +1,9 @@
+insert into insurer_detail(id, insurance_amount_limit, insurer_name, insurer_package_name , disbursement_duration) values(0, 3000, 'Insurer1', 'Ipackage1',10);
+insert into insurer_detail(id, insurance_amount_limit, insurer_name, insurer_package_name , disbursement_duration) values(1, 2000, 'Insurer2', 'Ipackage2',10);
+insert into insurer_detail(id, insurance_amount_limit, insurer_name, insurer_package_name , disbursement_duration) values(2, 7000, 'Insurer3', 'Ipackage3',10);
+insert into insurer_detail(id, insurance_amount_limit, insurer_name, insurer_package_name , disbursement_duration) values(3, 9000, 'Insurer4', 'Ipackage4',10);
+insert into insurer_detail(id, insurance_amount_limit, insurer_name, insurer_package_name , disbursement_duration) values(4, 4000, 'Insurer5', 'Ipackage5',10);
+insert into insurer_detail(id, insurance_amount_limit, insurer_name, insurer_package_name , disbursement_duration) values(5, 6000, 'Insurer6', 'Ipackage6',10);
+insert into insurer_detail(id, insurance_amount_limit, insurer_name, insurer_package_name , disbursement_duration) values(6, 1500, 'Insurer7', 'Ipackage7',10);
+insert into insurer_detail(id, insurance_amount_limit, insurer_name, insurer_package_name , disbursement_duration) values(7, 6600, 'Insurer8', 'Ipackage8',10);
+insert into insurer_detail(id, insurance_amount_limit, insurer_name, insurer_package_name , disbursement_duration) values(8, 10000, 'Insurer9', 'Ipackage9',10);
